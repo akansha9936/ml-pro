@@ -88,5 +88,4 @@ Follwing are the results of the project:
    
 ## Project Team Members
 
-1. Anubhav Shrimal
-2. Vrutti Patel
+1. Akansha Mishra
